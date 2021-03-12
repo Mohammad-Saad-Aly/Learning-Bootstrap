@@ -1,0 +1,22 @@
+/* .row{
+    border: 2px solid green;
+}
+.col{
+    border: 3px solid blue;
+} */
+/* 
+.btn {
+    background-color: cadetblue ;
+    border: 2px solid cadetblue;
+}
+.btn:hover{
+    background-color: none;
+} */
+
+.carousel-item{
+    height: 500px;
+}
+
+.carousel-item img{
+    height: 500px;
+}
